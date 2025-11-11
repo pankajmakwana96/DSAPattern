@@ -48,7 +48,7 @@ The Two Pointers pattern is used to solve array and string problems efficiently 
 18. Lexicographically Largest String From Box II (Hard)
 19. Create Maximum Number (Hard)
 
-See [Two-Pointers/README.md](Two-Pointers/README.md) for detailed pattern explanation.
+See [Two-Pointers/README.md](01-Two-Pointers/README.md) for detailed pattern explanation.
 
 ## How to Use This Repository
 
